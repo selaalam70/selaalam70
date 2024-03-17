@@ -5,4 +5,4 @@
 - 📫 How to reach me selaalam70@gmail.com
 
 <!---
-selaalam70/selaalam70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your 
+selaalam70/selaalam70 is a ✨ special ✨ repository because its `README.md` (this file) appears on you
